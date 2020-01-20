@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pirmais praktiskais darbs</string>
+    <string name="message">Pirmais prakstiskais darbs nodots: HELLO WORLD
+        \n Vitālijs Rolands Guļs
+        \n
+        \n Šī ir mana pirmā Android lietotne!
+
+    </string>
+</resources>
